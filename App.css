@@ -1,0 +1,28 @@
+#navbar {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  height: 60px;
+  background-color:  #11c29b;
+}
+
+ 
+ 
+#center {
+  width: 50%;
+}
+
+input {
+  width: 100%;
+}
+
+#right button {
+  margin: 10 12px;
+  padding: 10 20px;
+}
+
+.card img {
+  min-height: 500px;
+  max-height: 200px !important;
+  object-fit: cover;
+}
